@@ -1,0 +1,5 @@
+--train
+--model=bert
+--data_format=headlines
+--data=new-headlines/corona.multilang100.jsonl.gz
+--samples=1000
